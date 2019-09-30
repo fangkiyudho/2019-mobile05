@@ -51,7 +51,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Dips"
+                android:text="Disp"
                 android:textStyle="bold"
                 android:textColor="@android:color/black"
                 android:textSize="25dp"/>
@@ -123,9 +123,9 @@
 
             <TextView
                 android:layout_width="match_parent"
-                android:layout_marginTop="12dp"
+                android:layout_marginTop="20dp"
                 android:textColor="@android:color/black"
-                android:text="@string/text_pushup"
+                android:text="@string/text_disp"
                 android:layout_height="wrap_content">
             </TextView>
 
@@ -156,7 +156,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="12"
+                    android:text="69"
                     android:paddingLeft="12dp"
                     android:textColor="@android:color/black"
                     android:textStyle="bold"></TextView>
@@ -169,7 +169,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="154"
+                    android:text="777"
                     android:paddingLeft="12dp"
                     android:textColor="@android:color/black"
                     android:textStyle="bold"></TextView>
@@ -210,7 +210,7 @@
                             android:textStyle="bold"
                             android:textColor="@android:color/white"
                             android:layout_height="wrap_content"
-                            android:text="+5"/>
+                            android:text="+39"/>
                     </RelativeLayout>
 
 
